@@ -18,5 +18,6 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-%2302569B">
+  <img src="https://img.shields.io/badge/flutter-2302569B?style=for-the-badge&logo=Flutter&logoColor=%2302569B">
+
 </div>
