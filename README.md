@@ -9,6 +9,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montag-Yuseop&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbtjq1592000)](https://solved.ac/dbtjq1592000/)
 
+GitHub Status &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 백준 알고리즘 등급
+
+
   <hr/>
   
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
